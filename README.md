@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/aanu4172/gps-updates.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-GPS Updates
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aanu4172/gps-updates.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
+# GPS
+How GPS works is still a mystery to most of us! However, you will soon know everything you need to know about GPS. What is GPs? How does it work? Why do you need it? Where can you find it? Are some of the questions lingering in your mind. In this article you will get to know everything about GPS. 
+We are living in a world where technology is growing at a very high rate, including the world of GPS devices. Now that GPS is present in just about every car or smartphone, it becomes everyone’s best companion everyday. Whether you are going for a vacation, entertainment or business, the GPS device is one of the must have devices. 
+How Does GPS Work
+GPS is the device that makes it possible to locate entertainment joints or even particular home address, office address or any direction, routes or location you are looking for. You don’t need strangers to direct you to your long lost friend home. All you need is a good GPS device and you are good to go. Most GPS devices come with the latest maps and route updates. If your friend’s street name was changed recently, you can keep your GPS device up-to-date with the latest street name. 
+Not only does the GPS allows you to get accurate directions while driving, but also helps emergency responders like police and ambulances to quickly track and find callers. GPS devices can also be used to track how far you ran during a workout. The GPS uses the satellites to determine a location!
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
