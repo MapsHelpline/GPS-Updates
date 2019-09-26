@@ -4,11 +4,8 @@
 <h1> Free GPS Map Updates<h1>
 </head>
 
-<body bgcolor="white" text="blue">
+<body bgcolor="white" text="black">
 
-<section>
-<div class="container">
-<div class="content-section">
 <h2>GPS</h2>
 
 <p>How GPS works is still a mystery to most of us! However, you will soon know everything you need to know about GPS. What is GPS? How does it work? Why do you need it? Where can you find it? Are some of the questions lingering in your mind. In this article you will get to know everything about GPS.</p>
