@@ -16,4 +16,10 @@ Not only does the GPS allows you to get accurate directions while driving, but a
 
 
 </body>
+</html>
+GPS Updates
+Not all GPS updates can work on your navigation system. You should look for updates designed for your GPS system. If you are using TomTom GPS, visit TomTom website for updates. If you download  Garmin updates for TomTom GPS, the updates won’t function. Thus, is very important to download updates for the right system.
+ <head> ... </head> section.
+Summary:
+<html>
 
