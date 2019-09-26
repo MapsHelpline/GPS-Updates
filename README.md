@@ -43,7 +43,8 @@
 <h2>Cart Updates</h2>
 
 <p>Get the latest Cart updates for your Sport GPS! The tracking GPS device will help manage your workout.</p>
-
+</head>
 <!-- Start of  Zendesk Widget script -->
 <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=ca569219-b105-41ab-8ae9-3fa22e9f0f8c"> </script>
 <!-- End of  Zendesk Widget script -->
+<body itemscope="">
